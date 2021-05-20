@@ -22,7 +22,7 @@
       "uuid": "321sdf82-b933-11eb-8529-0242ac130003",
       "name": "TT1",
       "iin": "123456789",
-      "contaucts": [
+      "contucts": [
         {
           "name": "Вася",
           "position": "Хмельницький",
@@ -36,7 +36,7 @@
           "mail""mail2@mail.com"
         }
       ],
-      "activity_category": [
+      "activity": [
         {
           "guid": "321sds678-b933-11eb-8529-0242ac130003",
           "name": "Торговля"
@@ -57,7 +57,7 @@
       "uuid": "321sdf83-b933-11eb-8529-0242ac130003",
       "name": "TT2",
       "iin": "123456789",
-      "contaucts": [
+      "contucts": [
         {
           "name": "Таня",
           "position": "Львов",
@@ -71,7 +71,7 @@
           "mail""mail4@mail.com"
         }
       ],
-      "activity_category": [
+      "activity": [
         {
           "guid": "321sds678-b933-11eb-8529-0242ac130003",
           "name": "Торговля"
